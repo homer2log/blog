@@ -1,3 +1,3 @@
 # blog
-welcome to
-homer's blog repo
+
+welcome to homer's blog repo
